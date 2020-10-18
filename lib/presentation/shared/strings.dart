@@ -3,5 +3,7 @@ class Strings {
 
   static const REFRESH = 'Refresh';
 
+  static const PRODUCTS = 'Products';
+
   Strings._();
 }

@@ -17,11 +17,10 @@ class MyApp extends StatelessWidget {
     return MultiProvider(
       providers: DependencyInjection.injectProviders(),
       child: MaterialApp(
-        title: 'Flutter Clean Architecture',
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
-        home: MyHomePage(title: 'Products'),
+        home: MyHomePage(title: Strings.PRODUCTS),
       ),
     );
   }
