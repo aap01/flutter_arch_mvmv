@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Classic Jeans",
+        "price": 34.99,
+        "imageUrl": "https://rohan.imgix.net/product/04399188.jpg?w=2500&auto=format&q=77"
+    },
+    {
+        "name": "High Rise Jeans",
+        "price": 59.99,
+        "imageUrl": "https://www.target.com.au/medias/static_content/product/images/full/34/17/A1353417.jpg?impolicy=desktop_hero"
+    },
+    {
+        "name": "Pepe Jeans",
+        "price": 39.99,
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91odzGxwH%2BL._AC_UX466_.jpg"
+    },
+    {
+        "name": "Hera Jeans",
+        "price": 54.99,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0765/1371/products/2020-08-19Hera0387_1000x.jpg?v=1598530982"
+    },
+    {
+        "name": "Straight Fit Jeans",
+        "price": 33,
+        "imageUrl": "https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/40/406/3454/501/1/537262300/537262300_1_720x928.jpg"
+    },
+    {
+        "name": "Stretch Skinny Jeans",
+        "price": 19,
+        "imageUrl": "https://www.objectci.com/dw/image/v2/ABBT_PRD/on/demandware.static/-/Sites-pim-catalog/default/dw993c6b5a/pim-static/large/23031860_LightBlueDenim_001_ProductLarge.jpg?sw=685"
+    },
+    {
+        "name": "Lulu Jeans",
+        "price": 13.0,
+        "imageUrl": "https://elementywear.com/3932/lulu-jeans.jpg"
+    }
+]
